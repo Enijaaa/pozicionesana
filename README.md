@@ -1,0 +1,2 @@
+# pozicionesana
+objektu pozicionesana
